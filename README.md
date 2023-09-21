@@ -24,3 +24,4 @@
   - landing gears
   - landing system
   - manual control system ( The steering wheel and manual controls for the ships systems ) 
+!Note we need assets
