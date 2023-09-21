@@ -13,7 +13,7 @@
   - 1 melee weapon
   - rations
   - max possible level backpack
-  - medkit
+  - med kit
 * Required Items for the Rocketship:
   - thrusters
   - fuel tanks
