@@ -2,18 +2,18 @@
 * Setting
   - The ship is hovering above planet Kepler-69c
   - The time is January 2, 5101
-*Mood
+* Mood
   - Tense
-*Back Story
+* Back Story
   - You wake up in an abandoned ship.Every one left on the escape pods. You have to build a ship, space suit, rations, wepons, and tech to fix the ship you spawn on.
-*Player Character
+* Player Character
   - You the player are a human ( You are a Engineer , programmer, doctor ) ( Your age is 18 ) 
   - Your stats are ( Super intelligent,Stromg, Super Analysis )
-*Conflicts/Issues/Problems
+* Conflicts/Issues/Problems
   - The Player will have to fix malfuntioning equipment in the space ship and repar the ship after it getting atacked.
-*How to fix the Problems
+* How to fix the Problems
   - The player has to use the materials on the ship and catch floating space junk and use it to build the repairs for the ship and the required items to win the game.
-*Possible Endings
+* Possible Endings
   - The player wins and builds the required items to win and leaves on the ship they built
   - The player loses by failing to fix a problem with the ship they are on in time. 
 * Genre:
@@ -41,7 +41,7 @@
   - landing gears
   - landing system
   - manual control system ( The steering wheel and manual controls for the ships systems )
-*Assets that could possibly be used
+* Assets that could possibly be used
   - Low Poly Space Alien Worlds 3D Asset Pack
   - Space Station Free 3D Asset (HDRP + URP + Built-In)
   - Low Poly Sets: Sci-Fi Interior
